@@ -2,7 +2,7 @@
 
 同一句提示词，让两个模型各写一个单文件、浏览器直接运行的 Minecraft 风格 3D 方块游戏，然后从**体验**和**架构**两个角度评测。
 
-作者：[@RandyJinAI](https://x.com/RandyJinAI)，16 年软件开发，前高级架构师。
+作者：[@RandyJinAI](https://x.com/RandyJinAI)。
 
 ## 在线试玩
 
